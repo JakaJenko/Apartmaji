@@ -30,41 +30,42 @@ textarea {
     }
 }
 
-h1 {
+h1
+{
     text-align: center;
     font-size: 54px;
     font-family: 'Alex Brush', cursive;
     color: #990033;
     text-shadow: 1px 1px 1px black;
 }
-
-.main_image {
-    margin: 10px 0;
+.main_image
+{
+    margin:10px 0px;
 }
-
-    .main_image img {
-        width: 100%;
-    }
-
-    .main_image p {
-        position: absolute;
-        text-align: center;
-        text-transform: uppercase;
-        color: white;
-        font-size: 24px;
-        top: 50%;
-        left: 0;
-        right: 0;
-        margin: 0 auto;
-        width: 200px;
-        pointer-events: none;
-        visibility: hidden;
-        opacity: 0;
-        text-shadow: 1px 1px 1px black;
-        transition: opacity .25s ease-in-out;
-    }
-
-    .main_image:hover p {
-        visibility: visible;
-        opacity: 1;
-    }
+.main_image img
+{
+    width:100%;
+}
+.main_image p
+{
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 24px;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 200px;
+    pointer-events: none;
+    visibility: hidden;
+    opacity: 0;
+    text-shadow: 1px 1px 1px black;
+    transition: opacity .25s ease-in-out;
+}
+.main_image:hover p
+{
+    visibility: visible;
+    opacity: 1;
+}
