@@ -29,3 +29,13 @@ textarea {
         padding: 0;
     }
 }
+
+.main
+{
+    margin-top:10%;
+}
+.main_image
+{
+    height:250px;
+    background-color:rgb(180,180,180);
+}
