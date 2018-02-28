@@ -155,6 +155,16 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\Apartma 02.jpg" />
+    <Content Include="Images\Apartma 03.jpg" />
+    <Content Include="Images\Apartma 04.jpg" />
+    <Content Include="Images\Apartma 05.jpg" />
+    <Content Include="Images\Apartma 08.jpg" />
+    <Content Include="Images\Apartma 10.jpg" />
+    <Content Include="Images\Apartma 11.jpg" />
+    <Content Include="Images\Apartma 12.jpg" />
+    <Content Include="Images\Apartma 13.jpg" />
+    <Content Include="Images\Apartma 14.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">

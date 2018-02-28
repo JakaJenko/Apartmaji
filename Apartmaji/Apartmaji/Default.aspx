@@ -10,10 +10,12 @@
         </div>
         <div class="row main">
             <div class="col-xs-12 col-sm-6 main_image">
-                Rogla
+                <img src="Images/Apartma 03.jpg" />
+                <p>Apartma Rogla</p>
             </div>
             <div class="col-xs-12 col-sm-6 main_image">
-                Golte
+                <img src="Images/Apartma 02.jpg" />
+                <p>Apartma Golte</p>
             </div>
         </div>
     </div>
